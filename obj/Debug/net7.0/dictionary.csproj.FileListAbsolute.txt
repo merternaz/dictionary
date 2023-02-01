@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\dictionary\bin\Debug\net7.0\dictionary.exe
+C:\Users\MONSTER\GitProject\dictionary\bin\Debug\net7.0\dictionary.deps.json
+C:\Users\MONSTER\GitProject\dictionary\bin\Debug\net7.0\dictionary.runtimeconfig.json
+C:\Users\MONSTER\GitProject\dictionary\bin\Debug\net7.0\dictionary.dll
+C:\Users\MONSTER\GitProject\dictionary\bin\Debug\net7.0\dictionary.pdb
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.dll
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\refint\dictionary.dll
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.pdb
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\dictionary.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\dictionary\obj\Debug\net7.0\ref\dictionary.dll
